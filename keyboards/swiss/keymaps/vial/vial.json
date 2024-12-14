@@ -1,7 +1,4 @@
 {
-  "name": "Swiss",
-  "vendorId": "0x4C43",
-  "productId": "0x0420",
   "matrix": {
     "rows": 5,
     "cols": 15
