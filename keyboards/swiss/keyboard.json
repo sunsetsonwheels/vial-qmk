@@ -1,6 +1,6 @@
 {
     "manufacturer": "Bregoli",
-    "keyboard_name": "swiss",
+    "keyboard_name": "Swiss",
     "maintainer": "Bregoli",
     "bootloader": "atmel-dfu",
     "diode_direction": "COL2ROW",
