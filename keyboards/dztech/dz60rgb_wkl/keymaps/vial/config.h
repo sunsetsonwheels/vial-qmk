@@ -7,3 +7,6 @@
 // Esc + Enter
 #define VIAL_UNLOCK_COMBO_ROWS { 0, 2 }
 #define VIAL_UNLOCK_COMBO_COLS { 0, 13 }
+
+// Fix macOS unresponsive wakeup bug
+#define USB_SUSPEND_WAKEUP_DELAY 200
